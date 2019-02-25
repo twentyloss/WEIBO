@@ -3,7 +3,7 @@
 
 // Bootstrap
 
-@import "~bootstrap-sass/assets/stylesheets/bootstrap";
+@import "~bootstrap-sass/assets/stylesheets/_bootstrap";
 //@import '~bootstrap/scss/bootstrap';
 
 body {
@@ -13,3 +13,5 @@ body {
 nav.navbar.navbar-expand-lg {
   margin-bottom: 20px;
 }
+nav.nav-item{margin-right: 20px;}
+li{margin-right: 10px;}
